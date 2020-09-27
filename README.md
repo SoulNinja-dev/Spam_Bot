@@ -8,7 +8,10 @@ one to quit.
 
 In one press, it spams the string "This is spam" 20 times.
 
+
+*** NEW UPDATE ***
+new ui
+user input
+
 Upcoming updates:
-New cleaner gui.
-User input what to spam and how much.
 Input a file from user to keep spamming.
