@@ -3,18 +3,19 @@
 Spams the textbox where cursor is.
 
 
-Recent Update Done (1)
+**Recent Update Done (1)
 
-Newer And cleaner UI
-Better User Input
+*Newer And cleaner UI
+*Better User Input
 
-Recent Update Done (2)
+**Recent Update Done (2)
 
-added dev-notes which shows the developer name.
+*added dev-notes which shows the developer name.
 
 
-Upcoming updates:
-Input a file from user to keep spamming.
+**Upcoming updates:
+
+*Input a file from user to keep spamming.
 
 ### Hi there, I'm Soul Ninja - aka [Aadhithyan Suresh][SomeOfMyWork] 👋
 
