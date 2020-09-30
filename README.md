@@ -1,13 +1,15 @@
 # Spam_Bot
+
 Spams the textbox where cursor is.
 
 
-*** NEW UPDATE 1 ***
-new ui, 
-user input
+Recent Update Done (1)
 
+Newer And cleaner UI
+Better User Input
 
-*** NEW UPDATE 2 ***
+Recent Update Done (2)
+
 added dev-notes which shows the developer name.
 
 
@@ -35,7 +37,7 @@ Input a file from user to keep spamming.
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Pyhton and many other]
 
 
 
