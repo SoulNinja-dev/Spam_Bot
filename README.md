@@ -28,12 +28,6 @@ Spams the textbox where cursor is.
 - 👯 I’m looking to collaborate with other content creators
 
 
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][My Projects]
-
 <br />
 
 ### Languages and Tools:
