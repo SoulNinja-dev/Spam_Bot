@@ -14,6 +14,12 @@
 
 ## Learn How To Use Spam Bot
 
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=_jdZDk2R-pA">
+    <img src="http://i3.ytimg.com/vi/_jdZDk2R-pA/hqdefault.jpg" alt="vid" />
+  </a>
+</p>
 
 
 
