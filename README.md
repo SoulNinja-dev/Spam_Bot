@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=_jdZDk2R-pA">
-    <img src=https://img.shields.io/youtube/views/_jdZDk2R-pA?style=social" alt="watch our video" />
+    <img src=https://img.shields.io/youtube/views/_jdZDk2R-pA?color=green&style=plastic" alt="watch our video" />
   </a>
 </p>
 
