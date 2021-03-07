@@ -1,54 +1,33 @@
-# Spam_Bot
+</p>
+<p align="center">
+  <a href="https://github.com/SoulNinja-dev/Spam_Bot/releases/tag/1.0">
+    <img src="https://img.shields.io/github/downloads/SoulNinja-dev/Spam_Bot/total?color=green&style=plastic" alt="releases" />
+  </a>
+</p>
 
-Spams the textbox where cursor is.
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=_jdZDk2R-pA">
+    <img src=https://img.shields.io/youtube/views/_jdZDk2R-pA?color=blue&style=plastic" alt="watch our video" />
+  </a>
+</p>
 
+## Learn How To Use Spam Bot
 
-**Recent Update Done (1)**
+</p>
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=_jdZDk2R-pA">
+    <img src="http://i3.ytimg.com/vi/_jdZDk2R-pA/hqdefault.jpg" alt="vid" />
+  </a>
+</p>
 
-*Newer And cleaner UI*
-*Better User Input*
-
-**Recent Update Done (2)**
-
-*added dev-notes which shows the developer name.*
-
-
-**Upcoming updates:*
-
-*Input a file from user to keep spamming.*
-
-### Hi there, I'm SoulNinja - aka [Aadhithyan Suresh]
-
-[![My Projects](https://sproboticworks.com/user/profile/aadhithyan_17)](https://sproboticworks.com/user/profile/aadhithyan_17)
-
-## I'm a Coder
-
-- 🔭 I’m currently working on a [Spam_Bot][cool stuff]!
-- 🌱 I’m currently learning everything 😂
-- 👯 I’m looking to collaborate with other content creators
-
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code / PyCharm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][~~🐍Python, java and many other]
+</p>
+<p align="left">
+  <a href="https://twitter.com/Aadhithyan_17">
+    <img src="https://img.shields.io/twitter/follow/Aadhithyan_17?style=social" alt="tweet" />
+  </a>
+</p>
 
 
-
-<br />
-<br />
-
----
-
-
----
-
-
-
-
-</details>
-
-
-[My Projects]: https://sproboticworks.com/user/profile/aadhithyan_17
-
+## About Me
+![SoulNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoulNinja-dev&show_icons=true&theme=solarized-dark)
