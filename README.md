@@ -21,6 +21,14 @@
   </a>
 </p>
 
+</p>
+<p align="left">
+  <a href="https://twitter.com/Aadhithyan_17">
+    <img src="https://img.shields.io/twitter/follow/Aadhithyan_17?style=social" alt="tweet" />
+  </a>
+</p>
+
+
 ## About Me
 ![SoulNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoulNinja-dev&show_icons=true&theme=solarized-dark)
 
