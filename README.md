@@ -21,5 +21,6 @@
   </a>
 </p>
 
-
+## About Me
+![SoulNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoulNinja-dev&show_icons=true&theme=solarized-dark)
 
